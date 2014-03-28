@@ -1,0 +1,12 @@
+Create Div table and align right
+	If user Clicks Right Button
+		Ball Moves right
+if ball contacts wall
+{ 
+Stop ball; 
+} 
+else 
+{ 
+While no barrier 
+}	
+Ball does not stop
